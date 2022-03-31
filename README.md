@@ -1,5 +1,7 @@
 # Lockpick UI Minigame
 
+![image](https://user-images.githubusercontent.com/60974759/161067952-d0acf8ef-ab1e-4540-bf83-b96268196b9c.png)
+
 An easy lockpick export for FiveM.
 I know this was in a lot of leaked resource and has been made similarly.
 But this one I edited it myself from the codepen mentioned below.
